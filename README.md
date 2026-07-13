@@ -2,7 +2,7 @@
 
 <!-- ==================== HEADER ==================== -->
 <a href="https://trimix.jp">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=680&height=70&lines=Hi+there%2C+I'm+Taku+FUKAGAWA+%F0%9F%91%8B;Laravel+%2F+PHP+Engineer;AI-Driven+Development+Practitioner;Full-Stack+Developer+%40+trimix" alt="Taku FUKAGAWA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=680&height=70&lines=Hi+there%2C+I'm+Taku+FUKAGAWA+%F0%9F%91%8B;Laravel%2FPHP%2FRust%2FTypeScript;AI-Driven+Development+Practitioner;Full-Stack+Developer+%40+trimix" alt="Taku FUKAGAWA" />
 </a>
 
 <p>
@@ -21,6 +21,7 @@
 - 🧑‍💻 **Laravel / PHP engineer** building web applications and APIs.
 - 🤖 **AI-driven development practitioner** — I orchestrate agents (Claude Code) to plan, build, review, and ship.
 - 🧩 **Full-stack** — comfortable from database schema to UI.
+- 🛠️ Building **developer tools & apps** with **Rust** and **Node.js**.
 - 🏢 Working at **[trimix](https://trimix.jp)**, delivering software from idea to production.
 - 🌱 Always exploring better developer workflows, automation, and code quality.
 
@@ -35,6 +36,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -62,25 +64,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=trimixjp&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimixjp&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=trimixjp&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=trimixjp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
-</div>
-
-<br>
-
 ---
 
 ## 🇯🇵 自己紹介
@@ -88,6 +71,7 @@
 - 🧑‍💻 **Laravel / PHP エンジニア** として Web アプリケーションや API を開発しています。
 - 🤖 **AI 駆動開発の実践者** — エージェント（Claude Code）を統括し、設計・実装・レビュー・リリースを進めます。
 - 🧩 **フルスタック** — データベース設計から UI まで対応します。
+- 🛠️ **Rust** や **Node.js** を使って開発用アプリを作っています。
 - 🏢 **[trimix](https://trimix.jp)** で、アイデアから本番運用までソフトウェアを届けています。
 - 🌱 より良い開発フロー・自動化・コード品質を日々探求しています。
 
