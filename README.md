@@ -21,6 +21,7 @@
 - 🧑‍💻 **Laravel / PHP engineer** building web applications and APIs.
 - 🤖 **AI-driven development practitioner** — I orchestrate agents (Claude Code) to plan, build, review, and ship.
 - 🧩 **Full-stack** — comfortable from database schema to UI.
+- 🛠️ Building **developer tools & apps** with **Rust** and **Node.js**.
 - 🏢 Working at **[trimix](https://trimix.jp)**, delivering software from idea to production.
 - 🌱 Always exploring better developer workflows, automation, and code quality.
 
@@ -70,6 +71,7 @@
 - 🧑‍💻 **Laravel / PHP エンジニア** として Web アプリケーションや API を開発しています。
 - 🤖 **AI 駆動開発の実践者** — エージェント（Claude Code）を統括し、設計・実装・レビュー・リリースを進めます。
 - 🧩 **フルスタック** — データベース設計から UI まで対応します。
+- 🛠️ **Rust** や **Node.js** を使って開発用アプリを作っています。
 - 🏢 **[trimix](https://trimix.jp)** で、アイデアから本番運用までソフトウェアを届けています。
 - 🌱 より良い開発フロー・自動化・コード品質を日々探求しています。
 
